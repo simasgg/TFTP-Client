@@ -1,9 +1,10 @@
 # TFTP-Client
-TFTP Client w/ wxWidgets
+TFTP Client w/ wxWidgets 
+Visual Studio 2019
 
 TFTP Client GUI application made with wxWidgets library and simple C++ socket (Winsock). To get wxWidgets visit https://www.wxwidgets.org/. 
 
-C++17 standard should be used because code includes <filesystem> header. 
+C++17 standard should be used because code includes filesystem header. 
 
 TFTP Server can be found here: https://github.com/simasgg/TFTP-Server
 
